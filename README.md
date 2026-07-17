@@ -20,7 +20,7 @@
   <b>Автоматизация барбершопа на 1С: учёт товаров/услуг, бухучёт по РСБУ, расчёт зарплаты, аналитика («Монитор руководителя»), мобильная запись клиентов.</b><br>
 </p>
 
-[ССЫЛКА](https://github.com/ElenaPlugina/PracticumProjects/tree/main/СалонКрасоты)
+[ССЫЛКА](https://github.com/ElenaPlugina/PracticumProjects/tree/main/Барбершоп)
 
 
 
