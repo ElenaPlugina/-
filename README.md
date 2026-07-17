@@ -36,6 +36,6 @@
   <b>Автоматизация автосервиса на 1С: учёт товаров/услуг, бухучёт по РСБУ, расчёт зарплаты, аналитика («Монитор руководителя»), мобильная запись клиентов.</b><br>
 </p>
 
-[ССЫЛКА](https://github.com/ElenaPlugina/PracticumProjects/tree/main/Барбершоп)
+[ССЫЛКА](https://github.com/ElenaPlugina/PracticumProjects/tree/main/Автосервис)
 
 
