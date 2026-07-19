@@ -18,4 +18,12 @@
 
 [ССЫЛКА](https://github.com/ElenaPlugina/PracticumProjects/tree/main/Автосервис)
 
+<h1 align="center">Груминг-салон</h1>
+
+Комплексная 1C-конфигурация для автоматизации груминг-салона.
+Учёт, клиенты, животные, услуги, финансы и мобильное взаимодействие через REST API.
+
+[ССЫЛКА](https://github.com/ElenaPlugina/PracticumProjects/tree/main/ГрумингСалон)
+
+
 
